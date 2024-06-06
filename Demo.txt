@@ -1,0 +1,11 @@
+
+
+public class Demo{
+	
+	public static void doProcess(){
+		//logic to do process
+	}
+	public static void main(String[] args){
+		doProcess();
+	}
+}
